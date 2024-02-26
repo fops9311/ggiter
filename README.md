@@ -1,0 +1,2 @@
+# ggiter
+golang generic itrerator
